@@ -1,0 +1,8 @@
+[project]
+protostar-version = "0.13.0"
+
+[contracts]
+erc20 = ["src/contract"]
+
+[tests]
+test_01 = ["src/tests"]
